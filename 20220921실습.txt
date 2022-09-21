@@ -1,0 +1,20 @@
+PL/SQL procedure successfully completed.
+
+    DEPTNO DNAME          LOC          
+---------- -------------- -------------
+        10 ACCOUNTING     NEW YORK     
+        20 RESEARCH       DALLAS       
+        30 SALES          CHICAGO      
+        40 OPERATIONS     BOSTON       
+        79 총무부            부산           
+        71 개발1팀           수원           
+        81 유지보수팀          포항           
+        97 개발부            부산           
+        73 운영팀            인천           
+        74 개발2팀           대구           
+        72 품질관리팀          서울           
+        76 개발2팀           대전           
+        75 개발4팀           부산           
+        80 개발6팀           서울           
+
+14 rows selected.
